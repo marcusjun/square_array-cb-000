@@ -4,6 +4,6 @@ def square_array(array)
   array.each do |number|
     number**=2
     array[index]=number
-    index++
+    index+=1
   end
 end
