@@ -7,3 +7,7 @@ def square_array(array)
     index+=1
   end
 end
+
+def square_array_collect(array)
+  array.collect{|number| number**=2}
+end
