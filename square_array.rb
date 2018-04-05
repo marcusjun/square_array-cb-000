@@ -1,3 +1,4 @@
+#Complicated version using do end and tracking the array's index number
 #def square_array(array)
   # your code here
   #index=0
